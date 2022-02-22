@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Auricular confession of Titus Oates to the Salamanca-doctor, his confessor</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26230</idno>
+            <idno type="STC">Wing A4230A</idno>
+            <idno type="STC">ESTC R40289</idno>
+            <idno type="EEBO-CITATION">18819540</idno>
+            <idno type="OCLC">ocm 18819540</idno>
+            <idno type="VID">108378</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26230)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108378)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1663:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Auricular confession of Titus Oates to the Salamanca-doctor, his confessor</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the instruction of confessing plotters,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oates, Titus, 1649-1705.</term>
+               <term>Popish Plot, 1678 --  Anecdotes.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="confession">
+            <pb n="1" facs="tcp:108378:1" rendition="simple:additions"/>
+            <head>THE Auricular Confeſſion OF TITUS OATHES TO THE <hi>Salamanca-Doctor,</hi> His CONFESSOR.</head>
+            <opener>
+               <salute>Reverend Father,</salute>
+            </opener>
+            <p>IT is now that unlook'd for time of day, that the titular <hi>Saviour of three Nations,</hi> not prick'd with the moſt pungent ſtimulations of a guilty Conſcience, but inveloped with black deſpair, and careleſs of any portion of Heaven, lies proſtrate at your feet, not in hopes of <hi>Abſolution,</hi> (being more than the <hi>Roman-See</hi> can diſpence) but humbly begging your attention till I enumerate ſome darling Peccadillo's of mine, the repetition whereof may, peradventure, be as grateful to your ear, as to the Impeni<g ref="char:EOLhyphen"/>tent that relates them: And give me leave to marſhal them in order, as they are more or leſs nefarious in the judgment of the conſcientious.</p>
+            <p>
+               <label>ATHEISM.</label> This has been, I frankly own, my boſom-friend, and Co aeval to my capacity of reaſoning, as may be ſeen by my aſſerting the mortality of the Soul, againſt the opinion of my dear deceaſed Dr. <hi>Tonge,</hi> in the time of our proſperity at <hi>White-hall;</hi> Nay, if you take it not for truth, (ſince ſpo<g ref="char:EOLhyphen"/>ken by me) I'l refer you to our Friend at <hi>Colledge</hi>'s Tryal, (pag. 49.) who avers, <hi>That I have confounded the Goſpel, and deny'd the Divinty too.</hi>
+            </p>
+            <p>
+               <label>SODOMY.</label> Let the World deny me guilty of this if they pleaſe, I could produce you a whole <hi>LANE</hi> to prove it once.</p>
+            <p>
+               <label>APOSTACY.</label> The very Jump you ſee me wear, indicates my averſion for my late long Robe, and for the Profeſſion that enjoyns the wearing it. I aſſum'd it to ſerve the <hi>Cauſe,</hi> (the only Deity I adore) and that meeting with a damn'd rub, or total Defeat, I am at liberty from all obſervation of For<g ref="char:EOLhyphen"/>malities.</p>
+            <p>
+               <label>PERJURY.</label> This is as natural to me, as Milk to a Calf; I could ſwear <hi>Impoſſibilities, poſſible; Contraries, agreeable; Contradictions, conſonant; Watton</hi> and <hi>Iſlington</hi> all the ſame ſpot of Earth; To <hi>know,</hi> and <hi>not know</hi> a man at the Tame time; and that the numerical Body of <hi>Titus</hi> was in two diſtinct Kingdoms at the ſame inſtant; <hi>cum multis aliis, quae nunc, &amp;c.</hi>
+            </p>
+            <pb n="2" facs="tcp:108378:2" rendition="simple:additions"/>
+            <p>
+               <label>TREASON.</label> This is the rotten Diſeaſe of our Party, ſo contageous in it ſelf, that no change of Air can help the affected; nay, of ſo leperous a quality, that it corrupts Generations yet to come, and inexiſtent; no <hi>Bolus</hi> can help the Patient, no Pill purge him, or any thing prove a reſtorative, but that whereof (alas!) there is no proſpect, a Potion prepared by both Houſes of Parliament, and adminiſtred by the King. The Diſeaſe is ſo deſperate, and the Remedy ſo inacceſſible, that I will only leave you to your cen<g ref="char:EOLhyphen"/>ſure, whether I (the moſt active in all Villainies) am behind any of my fellows in ſo black a Crime.</p>
+            <p>
+               <label>INGRATI<g ref="char:EOLhyphen"/>TUDE.</label> Witneſs, when this Conſpiracy had another face, under that Vizard I had a bountiful exhibition, as a Diſcoverer: Yet nothing could deter me from appearing brazen fac'd in vindication of the Innocence of our St. <hi>Ste<g ref="char:EOLhyphen"/>phen</hi> at <hi>Oxon,</hi> tho' guilty of conſpiring the Death of my King and Patron, together with all the ills that might have follow'd thereof.</p>
+            <p>
+               <label>RAPE.</label> I can with confidence aſſure you, that of all the Catalogue of Crimes, I am of this only Innocent, having the ſtrongeſt averſion imaginable for the uſe of Women the right way. This likewiſe clears me of Inceſt.</p>
+            <p>
+               <label>MURDER.</label> If ever I was guilty hereof, it was only in an innocent way of falſe Swearing; but the more immediate and butcherly part thereof I leave to that Armi, potent Pugil, the Braſs-Silver hammerer at the ſign of the <hi>Cris-Croſs,</hi> or <hi>Gallows;</hi> or to my Brother <hi>William,</hi> the Horſe-kidnapper, at his Appartments in the other World.</p>
+            <p>I underſtand the Law ſays, <hi>Crimina majoris culpae ſunt minoris infamiae;</hi> therefore I leave out <hi>Miſpriſion of Treaſon, Burglary, Larceny,</hi> and all o<g ref="char:EOLhyphen"/>ther ſuch-like inconſiderable miſcarriages, as too mean, and unbecoming the grandeur of ſo culminate a Delinquent.</p>
+            <p>Under this complication of Iniquities, obdurate and remorſeleſs I la<g ref="char:EOLhyphen"/>bour; of a <hi>Preſerver;</hi> I ſtand in a fair way for the <hi>Gallows;</hi> what a plague ſhall I do? to anticipate Eſquire <hi>Ketch</hi> I have not the Courage; beſides, the <hi>Tories</hi> would ſay I did it in imitation of a <hi>felo de ſe</hi> of Honour, as not having ſo prolifical a Brain as to deviſe any other gentiel way of <hi>Exit.</hi> I will not be poſitive; however, I will differ in mode and circumſtance, tho' we agree in the main; for, <hi>ſub ſigillo confeſſionis,</hi> I tell you, I will mount that <hi>Monument</hi> that bears <hi>Patience</hi>'s ſham-Inſcription of the Con<g ref="char:EOLhyphen"/>flagration occaſion'd by the <hi>Papists;</hi> I will view the City round; caſt my eye upon treating <hi>Wapping,</hi> and weep; then turn towards the <hi>North;</hi> (<hi>Oh! that Name puts me in mind of hoſpitious</hi> Bethel.) I will ſham the Law; evade all manner of rhetorical flouriſhes; throw my ſelf over the Bal<g ref="char:EOLhyphen"/>coney; break my Neck; and poſt to the Devil.</p>
+            <p>And thus my Friends may ſee, tho' Fate fix'd me not in ſo high an Orb as ſome of my fellow-Conſpirators, our Ambition was not diſproportio<g ref="char:EOLhyphen"/>nable; for I'll die as ſoaring a Traytor as any of them all.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for the Inſtruction of <hi>Confeſſing Plotters,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
